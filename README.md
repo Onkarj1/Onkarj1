@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Onkar%20Joshi&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=082f5a&height=200&section=header&text=Onkar%20Joshi&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue.js+%7C+React.js+%7C+Node.js+%7C+Java;Building+on+AWS+%26+Azure;Open+to+Work+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=082f5a&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue.js+%7C+React.js+%7C+Node.js+%7C+Java;Building+on+AWS+%26+Azure;Open+to+Work+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-082f5a?style=for-the-badge&logo=github&logoColor=black)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Onkarj1&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Onkarj1?color=7dd3fc&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Onkarj1&color=082f5a&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Onkarj1?color=082f5a&style=flat-square&label=Followers)
 
 </div>
 
@@ -47,7 +47,7 @@ const onkarJoshi = {
 ### 📌 SLA Licensing Management Application
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=SLA-Licensing-Management-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="SLA Licensing Management Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=SLA-Licensing-Management-Application&theme=nord&border_color=082f5a&title_color=082f5a" alt="SLA Licensing Management Application"/>
 </div>
 
 A compliance and monitoring platform using AWS SQS, CloudWatch, and MQTT to verify licenses, track infrastructure health, and report service performance against SLA targets.
@@ -65,7 +65,7 @@ A compliance and monitoring platform using AWS SQS, CloudWatch, and MQTT to veri
 ### 📌 JES Return To Work Application
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=JES-Return-To-Work-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="JES Return To Work Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=JES-Return-To-Work-Application&theme=nord&border_color=082f5a&title_color=082f5a" alt="JES Return To Work Application"/>
 </div>
 
 A leave and workplace situation management platform with configurable, role-specific process flows for Employees, Admins, Company Representatives, and Counsellors.
@@ -104,10 +104,10 @@ A leave and workplace situation management platform with configurable, role-spec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Onkarj1&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkarj1&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Onkarj1&show_icons=true&theme=nord&border_color=082f5a&title_color=082f5a&icon_color=082f5a&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkarj1&layout=compact&theme=nord&border_color=082f5a&title_color=082f5a&text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Onkarj1&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=Onkarj1&theme=nord&border=082f5a&ring=082f5a&fire=082f5a" />
 
 </div>
 
@@ -120,7 +120,7 @@ A leave and workplace situation management platform with configurable, role-spec
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkarj1&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkarj1&theme=react-dark&hide_border=true&color=082f5a&line=082f5a&point=ffffff" />
 </div>
 
 <br/>
@@ -135,4 +135,4 @@ A leave and workplace situation management platform with configurable, role-spec
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=082f5a&height=120&section=footer" width="100%"/>
