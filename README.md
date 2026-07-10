@@ -12,8 +12,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=onkarjoshi1810&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/onkarjoshi1810?color=7dd3fc&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Onkarj1&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Onkarj1?color=7dd3fc&style=flat-square&label=Followers)
 
 </div>
 
@@ -47,7 +47,7 @@ const onkarJoshi = {
 ### 📌 SLA Licensing Management Application
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=onkarjoshi1810&repo=SLA-Licensing-Management-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="SLA Licensing Management Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=SLA-Licensing-Management-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="SLA Licensing Management Application"/>
 </div>
 
 A compliance and monitoring platform using AWS SQS, CloudWatch, and MQTT to verify licenses, track infrastructure health, and report service performance against SLA targets.
@@ -58,14 +58,14 @@ A compliance and monitoring platform using AWS SQS, CloudWatch, and MQTT to veri
 | Backend | Java / Node.js |
 | Database | MySQL / PostgreSQL |
 
-🔗 Code: [github.com/onkarjoshi1810/SLA-Licensing-Management-Application](https://github.com/onkarjoshi1810/SLA-Licensing-Management-Application)
+🔗 Code: [github.com/Onkarj1/SLA-Licensing-Management-Application](https://github.com/Onkarj1/SLA-Licensing-Management-Application)
 
 <br/>
 
 ### 📌 JES Return To Work Application
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=onkarjoshi1810&repo=JES-Return-To-Work-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="JES Return To Work Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkarj1&repo=JES-Return-To-Work-Application&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="JES Return To Work Application"/>
 </div>
 
 A leave and workplace situation management platform with configurable, role-specific process flows for Employees, Admins, Company Representatives, and Counsellors.
@@ -76,7 +76,7 @@ A leave and workplace situation management platform with configurable, role-spec
 | Backend | Node.js / Express.js |
 | Database | MongoDB / PostgreSQL |
 
-🔗 Code: [github.com/onkarjoshi1810/JES-Return-To-Work-Application](https://github.com/onkarjoshi1810/JES-Return-To-Work-Application)
+🔗 Code: [github.com/Onkarj1/JES-Return-To-Work-Application](https://github.com/Onkarj1/JES-Return-To-Work-Application)
 
 <br/>
 
@@ -105,22 +105,22 @@ A leave and workplace situation management platform with configurable, role-spec
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Onkarj1&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarjoshi1810&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkarj1&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=onkarjoshi1810&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=Onkarj1&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkarjoshi1810&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkarj1&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarjoshi1810&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkarj1&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
 </div>
 
 <br/>
